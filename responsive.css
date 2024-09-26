@@ -1,0 +1,45 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+@media only screen and (min-width: 1024px){
+
+    #section{
+ background-image: url("image/frame10.png");
+ background-size: cover;
+ background-position: center;
+ background-repeat: no-repeat;
+    }
+}
+#img1{
+    background-image: url("image/Rectangle\ 14.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#img2{
+    background-image: url("image/Rectangle\ 16.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#img3{
+    background-image: url("image/Rectangle\ 18.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#img4{
+    background-image: url("image/Rectangle\ 20.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#img5{
+    background-image: url("image/Rectangle\ 21.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#img6{
+    background-image: url("image/Rectangle\ 22.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
